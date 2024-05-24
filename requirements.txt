@@ -1,5 +1,4 @@
-uvicorn
-fastapi
-pydantic
-jinja2
+bleak
 psycopg2
+fastapi
+uvicorn
